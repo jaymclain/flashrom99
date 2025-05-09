@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "FlashROM 99 Cartridge")
-		(date "2016-06-10")
-		(rev "2")
+		(date "2025-05-09")
+		(rev "2.1")
 		(company "Copyright (c) 2016 Ralph Benzinger")
 		(comment 2 "Released as Open Source Hardware under CERN OHL 1.2 and GNU GPL 3 licenses")
 		(comment 4 "A TI 99 cartridge that allows for running ROM images stored on an SD card")
